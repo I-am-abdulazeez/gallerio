@@ -1,0 +1,7 @@
+{
+  "name": "gallerio",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
